@@ -27,9 +27,11 @@ An advanced healthcare decision-support system powered by Machine Learning model
   ![WhatsApp Image 2025-11-19 at 23 03 30](https://github.com/user-attachments/assets/7bf06f09-08a9-44ae-a0fe-a20ac13e7be4)
   ![WhatsApp Image 2025-11-19 at 23 04 05](https://github.com/user-attachments/assets/3bf410d8-247f-4ad7-a186-fb20e1dc7736)
 ![WhatsApp Image 2025-11-19 at 23 04 21](https://github.com/user-attachments/assets/09871838-5c50-4d1e-a913-cb858d7b79a3)
-![WhatsApp Image 2025-11-19 at 23 05 47](https://github.com/user-attachments/assets/0b8d1b3b-d14f-41e6-88b6-81514960c2e2)
-![WhatsApp Image 2025-11-19 at 23 05 37](https://github.com/user-attachments/assets/b952020f-3f0a-42ff-a415-5eb7abd3e322)
 ![WhatsApp Image 2025-11-19 at 23 05 06](https://github.com/user-attachments/assets/fedb0801-d76c-4a25-a990-d17ea74ef67a)
+![WhatsApp Image 2025-11-19 at 23 05 37](https://github.com/user-attachments/assets/b952020f-3f0a-42ff-a415-5eb7abd3e322)
+![WhatsApp Image 2025-11-19 at 23 05 47](https://github.com/user-attachments/assets/0b8d1b3b-d14f-41e6-88b6-81514960c2e2)
+
+
 - CKD Assessment
 ![WhatsApp Image 2025-11-19 at 20 22 50](https://github.com/user-attachments/assets/ee6acfe2-c496-439b-a4df-87b39b1bb4a3)
 ![WhatsApp Image 2025-11-19 at 20 22 34](https://github.com/user-attachments/assets/83dad17f-30b4-426a-8597-ec78577fd03f)

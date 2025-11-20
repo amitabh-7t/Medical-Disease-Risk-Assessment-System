@@ -34,10 +34,11 @@ An advanced healthcare decision-support system powered by Machine Learning model
 
 - CKD Assessment
 ![WhatsApp Image 2025-11-19 at 20 22 50](https://github.com/user-attachments/assets/ee6acfe2-c496-439b-a4df-87b39b1bb4a3)
-![WhatsApp Image 2025-11-19 at 20 22 34](https://github.com/user-attachments/assets/83dad17f-30b4-426a-8597-ec78577fd03f)
 
 - Parkinson’s Assessment
 ![WhatsApp Image 2025-11-19 at 20 22 20](https://github.com/user-attachments/assets/777cb985-9097-497c-803b-2ee8f461dfaa)
+
+![WhatsApp Image 2025-11-19 at 20 22 34](https://github.com/user-attachments/assets/83dad17f-30b4-426a-8597-ec78577fd03f)
 
 - Medical PDF Analyzer Module
 

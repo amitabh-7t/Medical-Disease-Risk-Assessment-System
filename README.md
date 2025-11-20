@@ -16,9 +16,9 @@ An advanced healthcare decision-support system powered by Machine Learning model
 | Disease | Status | Risk Analysis | Interpretation | Recommendations |
 |--------|:------:|:-------------:|:--------------:|:----------------:|
 | Diabetes Mellitus | ✔ | ✔ | ✔ | ✔ |
-| Chronic Kidney Disease (CKD) | UI Ready | 🔜 | 🔜 | 🔜 |
-| Parkinson’s Disease | UI Ready | 🔜 | 🔜 | 🔜 |
-| Medical Document Analysis | Beta | ✔ | 🔜 | 🔜 |
+| Chronic Kidney Disease (CKD) | ✔ | ✔ | ✔ | ✔ |
+| Parkinson’s Disease | ✔ | ✔ | ✔ | ✔ |
+| Medical Document Analysis | ✔ | ✔ | ✔ | ✔ |
 
 ## 📊 Demo Screenshots
 
